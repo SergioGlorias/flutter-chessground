@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/280713822073913354?label=Discord&logo=discord&style=flat)](https://discord.com/channels/280713822073913354/807722604478988348)
 
 Chessground is a chessboard package developed for lichess.org. It doesn't handle
-chess logic so you can use it with different chess variants.
+chess logic so you can use it with different chess variants. 
 
 ## Features
 
